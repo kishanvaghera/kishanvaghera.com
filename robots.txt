@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /data/
+Disallow: /wetransfer/
+Disallow: /cgi-bin/
+
+Sitemap: https://kishanvaghera.com/sitemap.xml

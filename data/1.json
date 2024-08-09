@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Shree Geeta Garbhsanskar",
+        "link-name": "shree-geeta-garbhsanskar",
+        "blog-image":"assets/img/portfolio/Shree-Geeta-Garbhsanskar.jpg",
+        "blog-description":"The Pregnancy App is a comprehensive mobile application designed to support expectant mothers throughout their pregnancy journey. The app provides a wide range of features and resources to ensure a smooth and informed pregnancy experience.",
+        "blog-link":"https://shreegeetagarbhsanskar.com",
+        "blog-Category":"Website",
+        "blog-content":"Shree Geeta Garbhsanskar",
+        "blog-start-date":"May 20, 2024",
+        "slider-data":[
+            "assets/img/portfolio-gallery/shreegeeta/1.png",
+            "assets/img/portfolio-gallery/shreegeeta/2.png",
+            "assets/img/portfolio-gallery/shreegeeta/3.png",
+            "assets/img/portfolio-gallery/shreegeeta/4.png",
+            "assets/img/portfolio-gallery/shreegeeta/5.png"
+        ],
+        "blog-long-desc":"Experience the pregnancy app Shree Geeta Garbhsanskar, the ultimate pregnancy app designed to simplify your journey, Dr. Krupali Kapadiya recommends this app to help guide you through each stage with ease and confidence.",
+        "Features":[
+            "<b>Meditation / Yoga :-</b> Meditation and yoga videos and flows.",
+            "<b>Music :-</b> Daily new music like pray, mood songs, etc..",
+            "<b>Diet :-</b> Fixed diet plan & monthly diet plans.",
+            "<b>Activity :-</b> Daily activity that strong your mind."
+        ]
+    },
+    {
+        "name": "Shree Geeta Garbhsanskar App",
+        "link-name": "shree-geeta-garbhsanskar-app",
+        "blog-image":"assets/img/portfolio/shree-geeta-app.jpg",
+        "blog-description":"The Pregnancy App is a comprehensive mobile application designed to support expectant mothers throughout their pregnancy journey. The app provides a wide range of features and resources to ensure a smooth and informed pregnancy experience.",
+        "blog-link":"https://play.google.com/store/apps/details?id=com.geetagarbhsanskar&hl=en",
+        "blog-Category":"App",
+        "blog-content":"Shree Geeta Garbhsanskar App",
+        "blog-start-date":"May 20, 2024",
+        "slider-data":[
+            "assets/img/portfolio-gallery/shreegeetaapp/1.png",
+            "assets/img/portfolio-gallery/shreegeetaapp/2.png"
+        ],
+        "blog-long-desc":"Experience the pregnancy app Shree Geeta Garbhsanskar, the ultimate pregnancy app designed to simplify your journey, Dr. Krupali Kapadiya recommends this app to help guide you through each stage with ease and confidence.",
+        "Features":[
+            "<b>Meditation / Yoga :-</b> Meditation and yoga videos and flows.",
+            "<b>Music :-</b> Daily new music like pray, mood songs, etc..",
+            "<b>Diet :-</b> Fixed diet plan & monthly diet plans.",
+            "<b>Activity :-</b> Daily activity that strong your mind."
+        ]
+    }
+]
