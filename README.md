@@ -1,2 +1,2 @@
 # kishanvaghera.com
-My personal Protfolio Website
+My personal Portfolio Website
